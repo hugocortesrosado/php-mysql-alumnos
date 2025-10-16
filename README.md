@@ -10,15 +10,3 @@ Esto permite:
 3.  Entender la diferencia entre las conexiones HTTP (inseguras) y HTTPS (seguras).
 
 ---
-
-## 🏗️ Estructura del Proyecto
-
-La estructura de carpetas requerida para este proyecto es la siguiente:
-proyecto-https/
- ├─ code/
- │   └─ index.php
- ├─ nginx.conf
- ├─ docker-compose.yml
- └─ certs/
-     ├─ server.crt
-     └─ server.key
